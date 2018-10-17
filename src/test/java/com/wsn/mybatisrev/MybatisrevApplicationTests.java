@@ -11,6 +11,7 @@ public class MybatisrevApplicationTests {
 
     @Test
     public void contextLoads() {
+        System.out.println("test");
     }
 
 }
